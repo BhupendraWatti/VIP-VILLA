@@ -1,0 +1,102 @@
+﻿@* @model IEnumerable<VIP_Villa.Models.Dto.VillaCreateDto> *@
+@model VIP_Villa.Models.Dto.VillaCreateDto
+@{
+    ViewData["Title"] = "Add New Villa";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-7">
+            <div class="card shadow-lg border-0 rounded-4 p-4" style="backdrop-filter: blur(5px);">
+                <div class="card-body">
+                    <h2 class="mb-4 fw-bold text-gradient" style="letter-spacing:1px;">
+                        <i class="bi bi-house-add"></i> Add New VIP Villa
+                    </h2>
+                    <!-- Start Form: set asp-action to your Create POST action -->
+                    <form method="post" enctype="multipart/form-data" asp-action="CreateVilla">
+                        
+                        <div class="row g-3">
+                            <!-- Name -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">Villa Name</label>
+                                <input type="text" class="form-control shadow-sm rounded-3" placeholder="Luxury Villa Name" asp-for="Name" autocomplete="off" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <!-- Rate -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">Rate</label>
+                                <input type="number" class="form-control shadow-sm rounded-3" placeholder="Rate per night" min="0" step="0.01" asp-for="Rate"/>
+                                <span asp-validation-for="Rate" class="text-danger"></span>
+                            </div>
+                            <!-- Occupancy -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">Occupancy</label>
+                                <input type="number" class="form-control shadow-sm rounded-3" placeholder="Max Occupancy" min="1"  asp-for="Occupancy" />
+                            </div>
+                            <!-- Sqft -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">Sq. Ft</label>
+                                <input type="number" class="form-control shadow-sm rounded-3" placeholder="Area in Sqft" min="100"  asp-for="Sqft"  />
+                                <span asp-validation-for="Sqft" class="text-danger"></span>
+                            </div>
+                            <!-- Image Upload -->
+                            <div class="col-md-12">
+                                <label class="form-label fw-semibold">Villa Image</label>
+                                <input type="text" class="form-control shadow-sm rounded-3" placeholder="Paste Image URL"  asp-for="ImageUrl"  />
+                                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                                <!-- If you use file upload: change type to file and add file binding -->
+                            </div>
+                            <!-- Description -->
+                            <div class="col-12">
+                                <label class="form-label fw-semibold">Description</label>
+                                <textarea rows="4" class="form-control shadow-sm rounded-3" placeholder="Describe this villa..." style="resize: vertical;"  asp-for="Details" ></textarea>
+                                <span asp-validation-for="Details" class="text-danger"></span>
+                            </div>
+                            <!-- Amenities -->
+                            <div class="col-12">
+                                <label class="form-label fw-semibold">Amenities</label>
+                                <input type="text" class="form-control shadow-sm rounded-3" placeholder="Pool, Wi-Fi, Parking..."  asp-for="Amenity"  />
+                                <span asp-validation-for="Amenity" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-end mt-4">
+                            <!-- Cancel Button -->
+                            <a asp-action="IndexVilla" class="btn btn-light rounded-pill px-4 me-2 shadow-sm border" style="font-weight: 500;">Cancel</a>
+                            <!-- Save Button -->
+                            <button type="submit" class="btn btn-gradient-primary rounded-pill px-4 shadow-sm" style="background: linear-gradient(90deg, #007BFF 60%, #0DCAF0 100%); color: white; font-weight:600;">
+                                <i class="bi bi-save"></i> Save Villa
+                            </button>
+                        </div>
+                    </form>
+                    <!-- TODO: Fill asp-for, asp-action, and validation helpers as needed -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .text-gradient {
+        background: linear-gradient(90deg, #007BFF 70%, #0DCAF0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .card {
+        box-shadow: 0 4px 24px rgba(0,0,0,0.13), 0 1.5px 3px rgba(0,0,0,0.03);
+        border-radius: 1.5rem;
+        background: rgba(255,255,255,0.97);
+    }
+    .form-control:focus {
+        border-color: #0DCAF0;
+        box-shadow: 0 0 0 0.2rem rgba(13,202,240,.25);
+    }
+    .btn-gradient-primary {
+        background: linear-gradient(90deg, #007BFF 60%, #0DCAF0 100%) !important;
+        border: none;
+    }
+</style>
+
+
+        @section Scripts{
+            <partial name="_ValidationScriptsPartial"></partial>
+        }
