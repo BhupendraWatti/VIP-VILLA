@@ -60,7 +60,7 @@ namespace VIP_Villa.Services
             {
                 ApiType = SD.ApiType.PUT,
                 Data = UpdateDto,
-                Url = _VillaUrl + "/api/VillaNumber"
+                Url = _VillaUrl + "/api/VillaNumber/" + UpdateDto.VillaNo
             });
         }
     }

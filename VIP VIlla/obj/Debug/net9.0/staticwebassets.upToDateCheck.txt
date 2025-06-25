@@ -1,0 +1,127 @@
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\dist\jquery.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\js\site.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\LICENSE.txt
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\dist\jquery.min.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\css\site.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\dist\jquery.slim.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\favicon.ico
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\dist\jquery.slim.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation\LICENSE.md
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\dist\jquery.slim.min.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation\dist\additional-methods.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\css\Bootstrap.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\jquery\dist\jquery.min.js
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\css\Bootstrap.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

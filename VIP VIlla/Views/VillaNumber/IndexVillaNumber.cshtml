@@ -34,10 +34,10 @@
                                     <td class="fw-semibold">@villa.VillaNo</td>
                                     <td class="text-center">
                                         <!-- Edit Button (replace href with asp-action, asp-route-id) -->
-                                        <a asp-action="UpdateVillaNumber" asp-route-id="@villa.VillaNo" class="btn btn-sm btn-outline-primary me-1 rounded-pill" title="Edit Villa">
+                                        <a asp-action="UpdateVillaNumber" asp-route-villaNo="@villa.VillaNo" class="btn btn-sm btn-outline-primary me-1 rounded-pill" title="Edit Villa">
                                             <i class="bi bi-pencil-square"></i> Update
                                         </a>
-                                        <a asp-action="DeleteVillaNumber" asp-route-id="@villa.VillaNo" class="btn btn-sm btn-outline-danger rounded-pill" title="Delete Villa">
+                                        <a asp-action="DeleteVillaNumber" asp-route-villaNo="@villa.VillaNo" class="btn btn-sm btn-outline-danger rounded-pill" title="Delete Villa">
                                             <i class="bi bi-trash"></i> Delete
                                         </a>
                                         <!-- TODO: Fill tag-helpers for above links as per your action names -->

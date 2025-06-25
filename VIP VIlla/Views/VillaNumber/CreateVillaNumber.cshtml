@@ -14,7 +14,7 @@
                     </h2>
                     <!-- Start Form: set asp-action to your Create POST action -->
                     <form method="post" enctype="multipart/form-data" asp-action="CreateVillaNumber">
-
+                        <div asp-validation-summary="All"class="text-danger"></div>
                         <div class="row g-3">
                             <!-- Name -->
                             <div class="col-md-6">
@@ -32,17 +32,17 @@
                             </div>
                             <!-- Amenities -->
                             <div class="col-12">
-                                <select asp-for="VM.VillaId" asp-item="@Model.VillaList"  class="form-label fw-semibold">
+                                <select asp-for="VM.VillaId" asp-items="@Model.VillaList"  class="form-label fw-semibold">
                                     
                                     <option disabled selected>-Select Villa-</option>
                                 </select>
-                                <input type="text" class="form-control shadow-sm rounded-3" placeholder="Pool, Wi-Fi, Parking..."  />
+                                
                                 <span asp-validation-for="VM.VillaId" class="text-danger"></span>
                             </div>
                         </div>
                         <div class="d-flex justify-content-end mt-4">
                             <!-- Cancel Button -->
-                            <a asp-action="IndexVilla" class="btn btn-light rounded-pill px-4 me-2 shadow-sm border" style="font-weight: 500;">Cancel</a>
+                            <a asp-action="IndexVillaNumber" class="btn btn-light rounded-pill px-4 me-2 shadow-sm border" style="font-weight: 500;">Cancel</a>
                             <!-- Save Button -->
                             <button type="submit" class="btn btn-gradient-primary rounded-pill px-4 shadow-sm" style="background: linear-gradient(90deg, #007BFF 60%, #0DCAF0 100%); color: white; font-weight:600;">
                                 <i class="bi bi-save"></i> Create Villa

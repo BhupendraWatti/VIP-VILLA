@@ -1,4 +1,6 @@
 
+using Villa_Services.Repository.IRepository;
+using Villa_Services.Repository;
 using VIP_Villa;
 using VIP_Villa.Services;
 using VIP_Villa.Services.IServices;
@@ -15,6 +17,8 @@ builder.Services.AddScoped<IVillaService, VillaService>();
 
 builder.Services.AddHttpClient<IVillaNumberService, VillaNumberService>();
 builder.Services.AddScoped<IVillaNumberService, VillaNumberService>();
+
+//builder.Services.AddScoped<IVillaRepository, VillaRepository>();
 var app = builder.Build();
 
 

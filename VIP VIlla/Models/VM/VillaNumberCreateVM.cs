@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Villa_Services.Models;
-using Villa_Services.Models.Dto;
+using VIP_Villa.Models.Dto;
 
 namespace VIP_Villa.Models.VM
 {
@@ -9,7 +9,7 @@ namespace VIP_Villa.Models.VM
     {
         public VillaNumberCreateVM()
         {
-            VM = new VillaNumberCreate();
+            VM = new VillaNumberCreate(); 
         }
         public VillaNumberCreate VM { get; set; }
         [ValidateNever]

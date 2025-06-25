@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Villa Services.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\VIP VIlla\\VIP VIlla.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

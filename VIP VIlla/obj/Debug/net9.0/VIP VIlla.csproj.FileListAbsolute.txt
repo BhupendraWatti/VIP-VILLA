@@ -1,0 +1,169 @@
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.csproj.AssemblyReference.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.GeneratedMSBuildEditorConfig.editorconfig
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.AssemblyInfoInputs.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.AssemblyInfo.cs
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.csproj.CoreCompileInputs.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.MvcApplicationPartsAssemblyInfo.cs
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.MvcApplicationPartsAssemblyInfo.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.RazorAssemblyInfo.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.RazorAssemblyInfo.cs
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.sourcelink.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Villa Services.deps.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Villa Services.runtimeconfig.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Villa Services.staticwebassets.endpoints.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Villa Services.exe
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\appsettings.Development.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\appsettings.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.staticwebassets.runtime.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.staticwebassets.endpoints.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.exe
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.deps.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.runtimeconfig.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIP VIlla.pdb
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\AutoMapper.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Azure.Core.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Azure.Identity.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.OpenApi.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Newtonsoft.Json.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.ClientModel.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Drawing.Common.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Memory.Data.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Runtime.Caching.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Security.Permissions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\System.Windows.Extensions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Villa Services.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIPVIlla_Utility.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\Villa Services.pdb
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\bin\Debug\net9.0\VIPVIlla_Utility.pdb
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\scopedcss\bundle\VIP VIlla.styles.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\scopedcss\projectbundle\VIP VIlla.bundle.scp.css
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\pkkurvjy8r-9iv6c66yqj.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\721z0mgvbd-b9sayid5wm.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\cpi2n3657j-61n19gt1b8.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\5qewcjn09j-xtxxf3hu2r.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\toowholpbs-bqjiyaj88i.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\tinu359ui8-c2jlpeoesf.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\ib9pmq1xhg-erw9l3u2r3.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\8uvt2sgc6x-aexeepp0ev.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\sdr80c01rs-d7shbmvgxk.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\7bcg62tnt9-ausgxo2sd3.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\6t0jht94n7-k8d9w2qqmf.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\tgqixl519m-cosvhxvwiu.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\ryk9vc5t65-ub07r2b239.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\k3ryahmeuc-fvhpjtyr6v.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\y1vl2vzfyi-b7pk76d08c.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\jicx99qxut-fsbi9cje9m.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\mm564zxl2b-rzd6atqjts.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\u0lzpx49yh-ee0r1s7dh0.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\urxy04bn6i-dxx9fxp4il.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\thufmmhky5-jd9uben2k1.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\gkb7twmxx4-khv3u5hwcm.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\poenicjhc7-r4e9w2rdcm.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\ll8dwa6nrj-lcd1t2u6c8.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\29punen5jh-c2oey78nd0.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\7dz4ottrse-tdbxkamptv.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\lxmmlphoid-j5mq2jizvt.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\js4mbv1e3u-06098lyss8.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\uqd7utu6vr-nvvlpmu67g.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\6axlyo3d6q-s35ty4nyc5.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\qrtnnwugrs-pj5nd1wqec.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\te3iarqhsq-46ein0sx1k.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\a1wbgaqh1r-v0zj4ognzu.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\5k2rriyaej-37tfw0ft22.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\37h7mob0ag-hrwsygsryq.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\mpvpgp82m4-pk9g2wxc8p.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\6ivkzln2gb-ft3s53vfgj.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\0zwscsql4q-6cfz1n2cew.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\o8yf7g8bp8-6pdc2jztkx.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\qicsda50bf-493y06b0oq.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\3qr5fmq7lz-iovd86k7lj.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\cusxqkde3d-vr1egmr9el.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\5o8md9i78v-kbrnm935zg.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\io6zfri8r1-jj8uyg4cgr.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\golq3t3egt-y7v9cxd14o.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\8lsxtf0tsi-notf2xhcfb.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\xbq2xm4xll-h1s4sie4z3.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\7709fu7ikk-63fj8s7r0e.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\ek9ybc2b0s-0j3bgjxly4.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\d8i19nfico-47otxtyo56.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\25juap265c-4v8eqarkd7.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\9e0c0347wk-356vix0kms.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\o7s0ya50gw-83jwlth58m.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\fa5owdmcp3-mrlpezrjn3.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\gmc67g9dfq-lzl9nlhx6b.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\uebqre4xra-ag7o75518u.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\iw7wqlamv1-x0q3zqp4vz.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\4czfoc5qh0-0i3buxo5is.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\x9f5tw9q2j-o1o13a6vjx.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\6ggedmfmcm-ttgo8qnofa.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\aneoltmjbc-2z0ns9nrw6.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\e4hja7islt-muycvpuwrr.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\mul0x7nv0d-87fc7y1x7t.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\5tj1t1u6w9-mlv21k5csn.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\0aixiev7mo-193bzu0vhl.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\compressed\6pvvkz78uf-193bzu0vhl.gz
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets.build.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets.development.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets\msbuild.VIP VIlla.Microsoft.AspNetCore.StaticWebAssets.props
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets\msbuild.VIP VIlla.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets\msbuild.build.VIP VIlla.props
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.VIP VIlla.props
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.VIP VIlla.props
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets.pack.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.csproj.Up2Date
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\refint\VIP VIlla.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.pdb
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\VIP VIlla.genruntimeconfig.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIP VIlla\obj\Debug\net9.0\ref\VIP VIlla.dll

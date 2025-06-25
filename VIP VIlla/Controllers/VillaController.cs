@@ -40,9 +40,11 @@ namespace VIP_Villa.Controllers
                 var response = await _villa.CreateAsync<APIResponse>(T);
                 if (response != null && response.IsSuccess)
                 {
+                    TempData["success"] = "You new Villa is Created.";
                     return RedirectToAction(nameof(IndexVilla));
                 }
             }
+            TempData["error"] = "Error encounted.";
             return View(T);
             
         }
@@ -71,10 +73,12 @@ namespace VIP_Villa.Controllers
                 var response = await _villa.UpdateAsync<APIResponse>(T);
                 if (response != null && response.IsSuccess)
                 {
+                    TempData["success"] = "You new Villa is Updated.";
                     return RedirectToAction(nameof(IndexVilla));
                 }
             }
-                    return View(T);
+            TempData["error"] = "Error encounted.";
+            return View(T);
 
             
         }
@@ -101,10 +105,11 @@ namespace VIP_Villa.Controllers
                 var response = await _villa.DeleteAsync<APIResponse>(T.Id);
                 if (response != null && response.IsSuccess)
                 {
-                    return RedirectToAction(nameof(IndexVilla));
+                TempData["success"] = "You new Villa is Deleted.";
+                return RedirectToAction(nameof(IndexVilla));
                 }
-                     
-        return View(T);
+            TempData["error"] = "Error encounted.";
+            return View(T);
 
 
         }

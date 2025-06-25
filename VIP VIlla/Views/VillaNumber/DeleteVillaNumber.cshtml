@@ -1,0 +1,85 @@
+﻿@* @model IEnumerable<VIP_Villa.Models.Dto.VillaCreateDto> *@
+@model VIP_Villa.Models.VM.VillaNumberDeleteVM
+@{
+    ViewData["Title"] = "Delete Villa";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-7">
+            <div class="card shadow-lg border-0 rounded-4 p-4" style="backdrop-filter: blur(5px);">
+                <div class="card-body">
+                    <h2 class="mb-4 fw-bold text-gradient" style="letter-spacing:1px;">
+                        <i class="bi bi-house-add"></i> Delete Villa
+                    </h2>
+                    <!-- Start Form: set asp-action to your Create POST action -->
+                    <form method="post" enctype="multipart/form-data" asp-action="DeleteVillaNumber">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="row g-3">
+                            <!-- Name -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-semibold">Villa Number</label>
+                                <input disabled type="text" class="form-control shadow-sm rounded-3" placeholder="" asp-for="VM.VillaNo" autocomplete="off" />
+                              
+                            </div>
+                            <!-- Rate -->
+                            <!-- Description -->
+                            <div class="col-12">
+                                <label class="form-label fw-semibold">Special Details</label>
+                                <textarea rows="4" class="form-control shadow-sm rounded-3" disabled placeholder="Describe this villa..." style="resize: vertical;" asp-for="VM.SpecialDetails"></textarea>
+                               
+                            </div>
+                            <!-- Amenities -->
+                            <div class="col-12">
+                                <select disabled asp-for="VM.VillaNo" asp-items="@Model.VillaList" class="form-label fw-semibold">
+
+                                    <option disabled selected>-Select Villa-</option>
+                                </select>
+                                
+                              
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-end mt-4">
+                            <!-- Cancel Button -->
+                            <a asp-action="IndexVillaNumber" class="btn btn-light rounded-pill px-4 me-2 shadow-sm border" style="font-weight: 500;">Cancel</a>
+                            <!-- Save Button -->
+                            <button type="submit" class="btn btn-gradient-primary rounded-pill px-4 shadow-sm" style="background: linear-gradient(90deg, #007BFF 60%, #0DCAF0 100%); color: white; font-weight:600;">
+                                <i class="bi bi-save"></i> Delete Villa
+                            </button>
+                        </div>
+                    </form>
+                    <!-- TODO: Fill asp-for, asp-action, and validation helpers as needed -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .text-gradient {
+        background: linear-gradient(90deg, #007BFF 70%, #0DCAF0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .card {
+        box-shadow: 0 4px 24px rgba(0,0,0,0.13), 0 1.5px 3px rgba(0,0,0,0.03);
+        border-radius: 1.5rem;
+        background: rgba(255,255,255,0.97);
+    }
+
+    .form-control:focus {
+        border-color: #0DCAF0;
+        box-shadow: 0 0 0 0.2rem rgba(13,202,240,.25);
+    }
+
+    .btn-gradient-primary {
+        background: linear-gradient(90deg, #007BFF 60%, #0DCAF0 100%) !important;
+        border: none;
+    }
+</style>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"></partial>
+        }

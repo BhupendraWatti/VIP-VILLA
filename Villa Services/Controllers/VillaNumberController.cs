@@ -87,13 +87,13 @@ namespace Villa_Services.Controllers
             try {
                 if (await _VillaN.GetAsync(u => u.VillaNo == villaNo.VillaNo) != null)
                 {
-                    ModelState.AddModelError("CustomError", "Villa already exist");
+                    ModelState.AddModelError("ErrorMessage", "Villa already exist");
                     return BadRequest(ModelState);
                 }
 
                 if(await _Villa.GetAsync(u=>u.Id == villaNo.VillaId) == null)
                 {
-                    ModelState.AddModelError("CustomError", "VillaId is Invalid");
+                    ModelState.AddModelError("ErrorMessage", "VillaId is Invalid");
                     return BadRequest(ModelState);
                 }
                 VillaNumber villa = _mapper.Map<VillaNumber>(villaNo);
@@ -131,7 +131,7 @@ namespace Villa_Services.Controllers
 
                 if (await _Villa.GetAsync(u => u.Id == villaUp.VillaId) == null)
                 {
-                    ModelState.AddModelError("CustomError", "VillaId is Invalid");
+                    ModelState.AddModelError("ErrorMessage", "VillaId is Invalid");
                     return BadRequest(ModelState);
                 }
 

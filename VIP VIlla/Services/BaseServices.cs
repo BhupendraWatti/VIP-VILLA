@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System.Text;
+//using Villa_Services.Models;
 using VIP_Villa.Models;
 using VIP_Villa.Services.IServices;
 using VIPVIlla_Utility;
@@ -50,12 +51,30 @@ namespace VIP_Villa.Services
                 apiResponse = await Client.SendAsync(message);
 
                 var apiContent = await apiResponse.Content.ReadAsStringAsync();
-                var APIResponse = JsonConvert.DeserializeObject<T>(apiContent);
-                return APIResponse;
+
+                try
+                {
+                    APIResponse _apirespon = JsonConvert.DeserializeObject<APIResponse>(apiContent);
+                    if (_apirespon.StatusCode ==System.Net.HttpStatusCode.BadRequest|| _apirespon.StatusCode == System.Net.HttpStatusCode.NotFound)
+                    {
+                        _apirespon.StatusCode = System.Net.HttpStatusCode.BadRequest;
+                        _apirespon.IsSuccess = false;
+                        var res = JsonConvert.SerializeObject(_apirespon);
+                        var returnObj = JsonConvert.DeserializeObject<T>(res);
+                        return returnObj;
+                    }
+                }
+                catch(Exception ex)
+                {
+                    var expectionResponse = JsonConvert.DeserializeObject<T>(apiContent);
+                    return expectionResponse;
+                }
+                var  _apiRespon = JsonConvert.DeserializeObject<T>(apiContent);
+                return _apiRespon;
             }
             catch (Exception ex)
             {
-                var dto = new APIResponse
+                var dto = new Models.APIResponse
                 {
                     ErrorMessage = new List<string> { Convert.ToString(ex.Message) },
                     IsSuccess = false

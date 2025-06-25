@@ -1,0 +1,13 @@
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\bin\Debug\net9.0\VIPVIlla_Utility.deps.json
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\bin\Debug\net9.0\VIPVIlla_Utility.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\bin\Debug\net9.0\VIPVIlla_Utility.pdb
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.AssemblyInfoInputs.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.AssemblyInfo.cs
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.csproj.CoreCompileInputs.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\refint\VIPVIlla_Utility.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.pdb
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\ref\VIPVIlla_Utility.dll
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.csproj.AssemblyReference.cache
+L:\Bhurgen Patel (Udemy)\Villa API Project\VIPVIlla_Utility\obj\Debug\net9.0\VIPVIlla_Utility.sourcelink.json
